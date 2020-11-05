@@ -67,8 +67,10 @@ First you would need to [install Git](https://git-scm.com/book/en/v2/Getting-Sta
 Once you're set up, I was thinking we would make an example .Rmd document and work on it together. It could be our plans for over winter....maybe coming up with some meal ideas and plans for fun things to do together. I don't want to waste any of your time, so if you're willing to help me with this, we can use a task we would need to do anyway. You will also have to learn 
 to Markdown syntax, but that part is super easy- you can probably learn it in about 10 minutes. There are lots of good online tutorials; I used [this one](https://www.markdowntutorial.com/) when I was first starting over this past summer. 
 
-# A bit more about Markdown
+##
 Markdown was originally invented for writing HTML code in a way that's easy for humans to read. It is a simple, plain-text document, and you just use regular punctuation marks to indicate how the text should be formatted. When you compile ("knit") the document from R Studio, the **rmarkdown** package calls a command-line tool called [pandoc](https://pandoc.org/) to translate your Markdown into HTML, Word, PDF, or many other formats. Probably that's more than enough detail for now, you don't really need to know any more to get started. If you find it interesting you could read more [here](https://rmarkdown.rstudio.com/lesson-2.html) or elsewhere on the web. 
+
+If you want to see the source code I wrote to create this very README file, you can browse it by simply clicking on the README.Rmd file on the repo home page (i.e. just scroll up). I wrote just a few HTML snippets for the emojis and some extra formatting, but you can see how simple the Markdown syntax is for bold, italics, hyperlinks, etc.
 
 No rush as I know you have a lot going on right now. Maybe we can start when you come to PA. 
 
