@@ -69,7 +69,7 @@ lots of good online tutorials; I used [this
 one](https://www.markdowntutorial.com/) when I was first starting over
 this past summer.
 
-## 
+## A bit more about Markdown
 
 Markdown was originally invented for writing HTML code in a way that’s
 easy for humans to read. It is a simple, plain-text document, and you
