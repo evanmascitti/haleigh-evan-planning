@@ -72,6 +72,7 @@ Markdown was originally invented for writing HTML code in a way that's easy for 
 
 If you want to see the source code I wrote to create this very README file, you can browse it by simply clicking on the README.Rmd file on the repo home page (i.e. just scroll up). I wrote just a few HTML snippets for the emojis and some extra formatting, but you can see how simple the Markdown syntax is for bold, italics, hyperlinks, etc.
 
+
 No rush as I know you have a lot going on right now. Maybe we can start when you come to PA. 
 
 xoxo 
