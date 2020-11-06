@@ -17,7 +17,7 @@ and forth, or even using Office 365. I want everything to stay linked to
 source code.
 
 If I can convince him to learn to write this way, it will save me
-endless hours (days) of translating comments and changes….and most
+endless hours (days) of translating comments and track changes….and most
 importantly everything is <u>automatically</u> version-controlled, so
 there is no need to keep track of file names, numbers, etc. If any
 mistakes are made, we can always go back. Hadley Wickham likens using
